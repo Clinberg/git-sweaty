@@ -44536,5 +44536,18 @@
     "start_date_local": "2026-03-13T12:14:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 990.3,
+    "elevation_gain": 0.0,
+    "id": "17719779101",
+    "moving_time": 978.0,
+    "name": "Padel w Eugenia",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-03-14T14:28:46Z",
+    "type": "Padel",
+    "year": 2026
   }
 ]
