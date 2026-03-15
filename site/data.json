@@ -30837,10 +30837,19 @@
     {
       "date": "2026-03-14",
       "hour": 14,
-      "name": "Padel w Eugenia",
+      "name": "Padel with Eugenia",
       "subtype": "Padel",
       "type": "Padel",
       "url": "https://www.strava.com/activities/17719779101",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 8,
+      "name": "10kL",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17727338759",
       "year": 2026
     }
   ],
@@ -56669,6 +56678,15 @@
           "distance": 9129.4,
           "elevation_gain": 71.0,
           "moving_time": 3303.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17727338759"
+          ],
+          "count": 1,
+          "distance": 10133.0,
+          "elevation_gain": 39.0,
+          "moving_time": 3496.0
         }
       },
       "Workout": {
@@ -56705,7 +56723,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:22:49.533955+00:00",
+  "generated_at": "2026-03-15T15:23:45.543070+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",

@@ -44543,11 +44543,24 @@
     "elevation_gain": 0.0,
     "id": "17719779101",
     "moving_time": 978.0,
-    "name": "Padel w Eugenia",
+    "name": "Padel with Eugenia",
     "raw_activity_type": "Workout",
     "raw_type": "Padel",
     "start_date_local": "2026-03-14T14:28:46Z",
     "type": "Padel",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 10133.0,
+    "elevation_gain": 39.0,
+    "id": "17727338759",
+    "moving_time": 3496.0,
+    "name": "10kL",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T08:46:55Z",
+    "type": "Run",
     "year": 2026
   }
 ]
