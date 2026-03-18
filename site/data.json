@@ -30878,6 +30878,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17752655873",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 8,
+      "name": "20'E | citybike",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17763495745",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56385,6 +56394,15 @@
           "distance": 13547.0,
           "elevation_gain": 87.0,
           "moving_time": 2789.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17763495745"
+          ],
+          "count": 1,
+          "distance": 5770.0,
+          "elevation_gain": 11.0,
+          "moving_time": 1256.0
         }
       },
       "Run": {
@@ -56769,7 +56787,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T16:00:09.038598+00:00",
+  "generated_at": "2026-03-18T16:04:59.720130+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",

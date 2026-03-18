@@ -44601,5 +44601,18 @@
     "start_date_local": "2026-03-17T11:48:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 5770.0,
+    "elevation_gain": 11.0,
+    "id": "17763495745",
+    "moving_time": 1256.0,
+    "name": "20'E | citybike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-18T08:37:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
