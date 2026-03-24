@@ -30923,6 +30923,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17826513567",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 12,
+      "name": "VT ladder test | turbo",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17839219554",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56439,6 +56448,15 @@
           "distance": 5770.0,
           "elevation_gain": 11.0,
           "moving_time": 1256.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17839219554"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2575.0
         }
       },
       "Run": {
@@ -56861,7 +56879,7 @@
       }
     }
   },
-  "generated_at": "2026-03-23T15:55:53.096326+00:00",
+  "generated_at": "2026-03-24T16:01:26.365616+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
