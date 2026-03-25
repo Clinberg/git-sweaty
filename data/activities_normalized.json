@@ -44679,5 +44679,18 @@
     "start_date_local": "2026-03-24T12:10:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 4299.9,
+    "elevation_gain": 23.0,
+    "id": "17851879799",
+    "moving_time": 1397.0,
+    "name": "23'M - 4 laps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T11:53:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
