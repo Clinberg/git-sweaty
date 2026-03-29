@@ -30950,6 +30950,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17864106076",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 15,
+      "name": "8kM + 6ST + cd",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17902234124",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56868,6 +56877,15 @@
           "distance": 5100.0,
           "elevation_gain": 0.0,
           "moving_time": 1801.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17902234124"
+          ],
+          "count": 1,
+          "distance": 9862.3,
+          "elevation_gain": 52.0,
+          "moving_time": 3458.0
         }
       },
       "Walk": {
@@ -56915,7 +56933,7 @@
       }
     }
   },
-  "generated_at": "2026-03-28T15:26:20.811582+00:00",
+  "generated_at": "2026-03-29T15:26:09.118990+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",

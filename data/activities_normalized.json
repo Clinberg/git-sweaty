@@ -44705,5 +44705,18 @@
     "start_date_local": "2026-03-26T12:05:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 9862.3,
+    "elevation_gain": 52.0,
+    "id": "17902234124",
+    "moving_time": 3458.0,
+    "name": "8kM + 6ST + cd",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-29T15:36:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
