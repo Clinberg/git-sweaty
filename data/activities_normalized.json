@@ -44731,5 +44731,44 @@
     "start_date_local": "2026-03-31T12:12:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 8408.7,
+    "elevation_gain": 30.0,
+    "id": "17929078016",
+    "moving_time": 1884.0,
+    "name": "30' z2 | citybike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-31T20:24:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 11122.5,
+    "elevation_gain": 26.0,
+    "id": "17934113889",
+    "moving_time": 2379.0,
+    "name": "40' z2 ride | citybike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T08:20:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 8371.0,
+    "elevation_gain": 23.0,
+    "id": "17935886173",
+    "moving_time": 3054.0,
+    "name": "50'E Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-01T12:00:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
