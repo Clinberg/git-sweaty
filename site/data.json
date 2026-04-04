@@ -31004,6 +31004,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17949455917",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 10,
+      "name": "2x 200m Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17971263307",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17971263357",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 10,
+      "name": "2x Bike-Run w Stefan",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17971263427",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56547,6 +56574,16 @@
           "distance": 11122.5,
           "elevation_gain": 26.0,
           "moving_time": 2379.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17971263357",
+            "17971263427"
+          ],
+          "count": 2,
+          "distance": 8422.0,
+          "elevation_gain": 30.0,
+          "moving_time": 2385.0
         }
       },
       "Run": {
@@ -56976,6 +57013,15 @@
           "distance": 7470.0,
           "elevation_gain": 0.0,
           "moving_time": 2770.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17971263307"
+          ],
+          "count": 1,
+          "distance": 426.7,
+          "elevation_gain": 0.0,
+          "moving_time": 134.0
         }
       },
       "Walk": {
@@ -57023,7 +57069,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T15:35:17.501982+00:00",
+  "generated_at": "2026-04-04T15:26:18.283362+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",

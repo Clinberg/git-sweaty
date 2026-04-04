@@ -44783,5 +44783,44 @@
     "start_date_local": "2026-04-02T13:52:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 426.7,
+    "elevation_gain": 0.0,
+    "id": "17971263307",
+    "moving_time": 134.0,
+    "name": "2x 200m Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T10:35:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 1916.9,
+    "elevation_gain": 5.0,
+    "id": "17971263357",
+    "moving_time": 515.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-04T10:39:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 6505.1,
+    "elevation_gain": 25.0,
+    "id": "17971263427",
+    "moving_time": 1870.0,
+    "name": "2x Bike-Run w Stefan",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-04T10:04:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
