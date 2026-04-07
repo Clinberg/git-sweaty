@@ -31049,6 +31049,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18001014040",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 12,
+      "name": "65'E | treadmill",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18011466121",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57058,6 +57067,15 @@
           "distance": 10488.5,
           "elevation_gain": 51.0,
           "moving_time": 3616.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18011466121"
+          ],
+          "count": 1,
+          "distance": 10670.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3903.0
         }
       },
       "Walk": {
@@ -57105,7 +57123,7 @@
       }
     }
   },
-  "generated_at": "2026-04-06T15:40:50.510488+00:00",
+  "generated_at": "2026-04-07T16:07:38.363791+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
