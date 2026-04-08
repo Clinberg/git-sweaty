@@ -31058,6 +31058,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18011466121",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18024902669",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56620,6 +56629,15 @@
           "distance": 6453.6,
           "elevation_gain": 10.0,
           "moving_time": 1605.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18024902669"
+          ],
+          "count": 1,
+          "distance": 10651.0,
+          "elevation_gain": 19.0,
+          "moving_time": 2266.0
         }
       },
       "Run": {
@@ -57123,7 +57141,7 @@
       }
     }
   },
-  "generated_at": "2026-04-07T16:07:38.363791+00:00",
+  "generated_at": "2026-04-08T16:12:06.824468+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
