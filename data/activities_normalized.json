@@ -44868,11 +44868,24 @@
     "elevation_gain": 19.0,
     "id": "18024902669",
     "moving_time": 2266.0,
-    "name": "Lunch Ride",
+    "name": "37'E | citybike",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-08T12:05:10Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 7300.0,
+    "elevation_gain": 0.0,
+    "id": "18038960328",
+    "moving_time": 2757.0,
+    "name": "46'E | treadmill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-09T12:05:19Z",
+    "type": "Run",
     "year": 2026
   }
 ]
