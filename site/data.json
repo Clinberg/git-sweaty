@@ -31080,7 +31080,7 @@
     {
       "date": "2026-04-12",
       "hour": 17,
-      "name": "Afternoon Ride",
+      "name": "30'E | citybike",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18082398767",
@@ -31098,10 +31098,19 @@
     {
       "date": "2026-04-15",
       "hour": 12,
-      "name": "Lunch Run",
+      "name": "47'E",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18117091397",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 12,
+      "name": "10'E + 6x (2'H/2'P) + 5'E | treadmill",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18143188731",
       "year": 2026
     }
   ],
@@ -57166,6 +57175,15 @@
           "distance": 8072.9,
           "elevation_gain": 21.0,
           "moving_time": 2821.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18143188731"
+          ],
+          "count": 1,
+          "distance": 4429.5,
+          "elevation_gain": 0.0,
+          "moving_time": 2255.0
         }
       },
       "Walk": {
@@ -57213,7 +57231,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:18:32.086584+00:00",
+  "generated_at": "2026-04-17T15:54:56.307283+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",

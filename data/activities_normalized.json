@@ -44894,7 +44894,7 @@
     "elevation_gain": 29.0,
     "id": "18082398767",
     "moving_time": 1804.0,
-    "name": "Afternoon Ride",
+    "name": "30'E | citybike",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-12T17:52:27Z",
@@ -44920,10 +44920,23 @@
     "elevation_gain": 21.0,
     "id": "18117091397",
     "moving_time": 2821.0,
-    "name": "Lunch Run",
+    "name": "47'E",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-04-15T12:48:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 4429.5,
+    "elevation_gain": 0.0,
+    "id": "18143188731",
+    "moving_time": 2255.0,
+    "name": "10'E + 6x (2'H/2'P) + 5'E | treadmill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-17T12:15:07Z",
     "type": "Run",
     "year": 2026
   }
