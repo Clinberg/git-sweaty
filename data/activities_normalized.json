@@ -44965,5 +44965,18 @@
     "start_date_local": "2026-04-19T11:03:59Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 3113.0,
+    "elevation_gain": 8.0,
+    "id": "18209908293",
+    "moving_time": 1210.0,
+    "name": "20'E z1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T12:28:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
