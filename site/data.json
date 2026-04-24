@@ -31139,6 +31139,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18209908293",
       "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 12,
+      "name": "10'z1 + P1' + 5'mid-z3 + P1' + 15'z1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18237157361",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57240,6 +57249,15 @@
           "distance": 3113.0,
           "elevation_gain": 8.0,
           "moving_time": 1210.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18237157361"
+          ],
+          "count": 1,
+          "distance": 4641.7,
+          "elevation_gain": 11.0,
+          "moving_time": 1818.0
         }
       },
       "Walk": {
@@ -57287,7 +57305,7 @@
       }
     }
   },
-  "generated_at": "2026-04-23T16:26:19.329507+00:00",
+  "generated_at": "2026-04-24T16:01:06.373084+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
