@@ -44991,5 +44991,18 @@
     "start_date_local": "2026-04-24T12:12:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 6646.4,
+    "elevation_gain": 0.0,
+    "id": "18252575412",
+    "moving_time": 2630.0,
+    "name": "4x 500m with Stefan, then regular run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T15:02:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
