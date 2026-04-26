@@ -31157,6 +31157,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18252575412",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 11,
+      "name": "25'z2 with Stefan | citybike",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18262525661",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56748,6 +56757,15 @@
           "distance": 7319.7,
           "elevation_gain": 29.0,
           "moving_time": 1804.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18262525661"
+          ],
+          "count": 1,
+          "distance": 5981.3,
+          "elevation_gain": 17.0,
+          "moving_time": 1513.0
         }
       },
       "Run": {
@@ -57323,7 +57341,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:35:14.381193+00:00",
+  "generated_at": "2026-04-26T15:37:44.433493+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",

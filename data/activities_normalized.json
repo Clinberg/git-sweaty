@@ -45004,5 +45004,18 @@
     "start_date_local": "2026-04-25T15:02:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 5981.3,
+    "elevation_gain": 17.0,
+    "id": "18262525661",
+    "moving_time": 1513.0,
+    "name": "25'z2 with Stefan | citybike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-26T11:15:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
