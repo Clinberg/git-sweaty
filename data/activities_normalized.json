@@ -45043,5 +45043,18 @@
     "start_date_local": "2026-05-01T13:10:12Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 10500.7,
+    "elevation_gain": 436.0,
+    "id": "18346669791",
+    "moving_time": 12217.0,
+    "name": "Mullerthal trail route 2 | Luxembourg",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-02T12:01:16Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
