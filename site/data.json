@@ -31193,6 +31193,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18346669791",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 11,
+      "name": "3 country point NL / BE / DE",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18357251055",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56640,6 +56649,15 @@
           "distance": 10500.7,
           "elevation_gain": 436.0,
           "moving_time": 12217.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18357251055"
+          ],
+          "count": 1,
+          "distance": 1676.9,
+          "elevation_gain": 53.0,
+          "moving_time": 2203.0
         }
       },
       "Padel": {
@@ -57395,7 +57413,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:40:27.089545+00:00",
+  "generated_at": "2026-05-03T15:40:58.598719+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
