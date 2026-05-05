@@ -45069,5 +45069,31 @@
     "start_date_local": "2026-05-03T11:51:34Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 4625.6,
+    "elevation_gain": 23.0,
+    "id": "18383161287",
+    "moving_time": 6238.0,
+    "name": "Family Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-05T10:40:18Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 7575.8,
+    "elevation_gain": 17.0,
+    "id": "18385296954",
+    "moving_time": 3033.0,
+    "name": "24x 45/15",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T14:20:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
