@@ -31224,10 +31224,37 @@
     {
       "date": "2026-05-07",
       "hour": 12,
-      "name": "24x 45/15",
+      "name": "24x 45/15 | treadmill",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18410528664",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 13,
+      "name": "to hills | citybike",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18437453657",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 13,
+      "name": "12x 45/15 flat + 4x 200m uphill",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18437461152",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 13,
+      "name": "back home | citybike",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18437625730",
       "year": 2026
     }
   ],
@@ -56865,6 +56892,16 @@
           "distance": 5981.3,
           "elevation_gain": 17.0,
           "moving_time": 1513.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18437453657",
+            "18437625730"
+          ],
+          "count": 2,
+          "distance": 4999.1,
+          "elevation_gain": 15.0,
+          "moving_time": 1178.0
         }
       },
       "Run": {
@@ -57411,6 +57448,15 @@
           "distance": 4391.2,
           "elevation_gain": 0.0,
           "moving_time": 2358.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18437461152"
+          ],
+          "count": 1,
+          "distance": 4345.1,
+          "elevation_gain": 28.0,
+          "moving_time": 1748.0
         }
       },
       "Walk": {
@@ -57467,7 +57513,7 @@
       }
     }
   },
-  "generated_at": "2026-05-08T16:10:43.392594+00:00",
+  "generated_at": "2026-05-09T15:44:02.759976+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",

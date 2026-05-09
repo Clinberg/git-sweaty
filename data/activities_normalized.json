@@ -45102,11 +45102,50 @@
     "elevation_gain": 0.0,
     "id": "18410528664",
     "moving_time": 2358.0,
-    "name": "24x 45/15",
+    "name": "24x 45/15 | treadmill",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-07T12:19:09Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 2746.6,
+    "elevation_gain": 4.0,
+    "id": "18437453657",
+    "moving_time": 588.0,
+    "name": "to hills | citybike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T13:10:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 4345.1,
+    "elevation_gain": 28.0,
+    "id": "18437461152",
+    "moving_time": 1748.0,
+    "name": "12x 45/15 flat + 4x 200m uphill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T13:21:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 2252.5,
+    "elevation_gain": 11.0,
+    "id": "18437625730",
+    "moving_time": 590.0,
+    "name": "back home | citybike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T13:53:01Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
