@@ -31256,6 +31256,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18437625730",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 11,
+      "name": "4kE",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18449559865",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57457,6 +57466,15 @@
           "distance": 4345.1,
           "elevation_gain": 28.0,
           "moving_time": 1748.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18449559865"
+          ],
+          "count": 1,
+          "distance": 4121.9,
+          "elevation_gain": 11.0,
+          "moving_time": 1663.0
         }
       },
       "Walk": {
@@ -57513,7 +57531,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:44:02.759976+00:00",
+  "generated_at": "2026-05-10T15:45:53.676315+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
