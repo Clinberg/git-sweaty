@@ -45160,5 +45160,18 @@
     "start_date_local": "2026-05-10T11:36:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 2420.0,
+    "elevation_gain": 0.0,
+    "id": "18474461488",
+    "moving_time": 920.0,
+    "name": "Run1: std WU",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T11:41:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
