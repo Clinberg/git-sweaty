@@ -31269,10 +31269,37 @@
     {
       "date": "2026-05-12",
       "hour": 11,
-      "name": "Run1: std WU",
+      "name": "Run1: 10'z1 + 5'gz3 | treadmill",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18474461488",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 19,
+      "name": "Run2: 1 long lap E + 1 lap z3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18480414485",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 8,
+      "name": "Run3: three laps z1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18487063939",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 16,
+      "name": "Run4: three laps z1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18491599938",
       "year": 2026
     }
   ],
@@ -57487,12 +57514,23 @@
         },
         "2026-05-12": {
           "activity_ids": [
-            "18474461488"
+            "18474461488",
+            "18480414485"
           ],
-          "count": 1,
-          "distance": 2420.0,
-          "elevation_gain": 0.0,
-          "moving_time": 920.0
+          "count": 2,
+          "distance": 5363.0,
+          "elevation_gain": 10.0,
+          "moving_time": 2018.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18487063939",
+            "18491599938"
+          ],
+          "count": 2,
+          "distance": 6529.2,
+          "elevation_gain": 21.0,
+          "moving_time": 2602.0
         }
       },
       "Walk": {
@@ -57549,7 +57587,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T17:05:05.741568+00:00",
+  "generated_at": "2026-05-13T17:12:14.727275+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
