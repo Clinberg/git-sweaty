@@ -45225,5 +45225,44 @@
     "start_date_local": "2026-05-14T11:20:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 4031.6,
+    "elevation_gain": 24.0,
+    "id": "18508313343",
+    "moving_time": 1543.0,
+    "name": "Run6: one lap z1 + 12x 1'/30\"P",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-14T20:38:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 3178.9,
+    "elevation_gain": 3.0,
+    "id": "18512931214",
+    "moving_time": 1270.0,
+    "name": "Run7: three laps z1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T08:18:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 3150.6,
+    "elevation_gain": 0.0,
+    "id": "18517034456",
+    "moving_time": 1330.0,
+    "name": "Run8: a 3km z1 | treadmill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T15:27:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
