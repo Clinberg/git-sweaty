@@ -45264,5 +45264,18 @@
     "start_date_local": "2026-05-15T15:27:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 3433.6,
+    "elevation_gain": 16.0,
+    "id": "18530817549",
+    "moving_time": 1095.0,
+    "name": "Run9: one lap z1 + 10x 200mR",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T16:27:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
