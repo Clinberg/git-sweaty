@@ -45277,5 +45277,31 @@
     "start_date_local": "2026-05-16T16:27:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 5043.8,
+    "elevation_gain": 14.0,
+    "id": "18539625443",
+    "moving_time": 2137.0,
+    "name": "Run10: 5km L",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T11:03:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 818.6,
+    "elevation_gain": 2.1,
+    "id": "18542939916",
+    "moving_time": 1287.0,
+    "name": "Afternoon Stand Up Paddling",
+    "raw_activity_type": "StandUpPaddling",
+    "raw_type": "StandUpPaddling",
+    "start_date_local": "2026-05-17T14:21:59Z",
+    "type": "StandUpPaddling",
+    "year": 2026
   }
 ]

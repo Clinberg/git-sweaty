@@ -31346,6 +31346,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18530817549",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 11,
+      "name": "Run10: 5km L",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18539625443",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 14,
+      "name": "Afternoon Stand Up Paddling",
+      "subtype": "StandUpPaddling",
+      "type": "StandUpPaddling",
+      "url": "https://www.strava.com/activities/18542939916",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57605,6 +57623,26 @@
           "distance": 3433.6,
           "elevation_gain": 16.0,
           "moving_time": 1095.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18539625443"
+          ],
+          "count": 1,
+          "distance": 5043.8,
+          "elevation_gain": 14.0,
+          "moving_time": 2137.0
+        }
+      },
+      "StandUpPaddling": {
+        "2026-05-17": {
+          "activity_ids": [
+            "18542939916"
+          ],
+          "count": 1,
+          "distance": 818.6,
+          "elevation_gain": 2.1,
+          "moving_time": 1287.0
         }
       },
       "Walk": {
@@ -57661,7 +57699,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T15:52:58.287358+00:00",
+  "generated_at": "2026-05-17T15:53:56.755148+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
@@ -57695,6 +57733,10 @@
     "Run": {
       "accent": "#01cdfe",
       "label": "Run"
+    },
+    "StandUpPaddling": {
+      "accent": "#72efdd",
+      "label": "Stand Up Paddling"
     },
     "Swim": {
       "accent": "#3a86ff",
@@ -57736,6 +57778,7 @@
     "Ride",
     "Rowing",
     "Run",
+    "StandUpPaddling",
     "Swim",
     "TrailRun",
     "VirtualRide",
