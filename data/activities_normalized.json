@@ -45303,5 +45303,31 @@
     "start_date_local": "2026-05-17T14:21:59Z",
     "type": "StandUpPaddling",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 4378.5,
+    "elevation_gain": 6.0,
+    "id": "18564147314",
+    "moving_time": 1409.0,
+    "name": "Run1: five mins z1 + 2x 9'gz3/P2'",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T08:30:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 4665.0,
+    "elevation_gain": 24.0,
+    "id": "18568195646",
+    "moving_time": 1752.0,
+    "name": "Run2: five mins z1 + 6x 3'gz3/P1'",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T15:08:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
