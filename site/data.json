@@ -31382,6 +31382,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18568195646",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 8,
+      "name": "Run3: z1 3.5 km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18577920930",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 14,
+      "name": "Run4: z1 3.5 km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18581320635",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57660,6 +57678,16 @@
           "distance": 9043.5,
           "elevation_gain": 30.0,
           "moving_time": 3161.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18577920930",
+            "18581320635"
+          ],
+          "count": 2,
+          "distance": 7096.4,
+          "elevation_gain": 22.0,
+          "moving_time": 2927.0
         }
       },
       "StandUpPaddling": {
@@ -57727,7 +57755,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:35:26.062187+00:00",
+  "generated_at": "2026-05-20T17:51:24.475187+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
