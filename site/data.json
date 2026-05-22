@@ -31418,6 +31418,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18595301754",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 14,
+      "name": "Run7: z1 3.5 km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18607719649",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57716,6 +57725,15 @@
           "distance": 6104.4,
           "elevation_gain": 0.0,
           "moving_time": 3550.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18607719649"
+          ],
+          "count": 1,
+          "distance": 3562.6,
+          "elevation_gain": 7.0,
+          "moving_time": 1474.0
         }
       },
       "StandUpPaddling": {
@@ -57783,7 +57801,7 @@
       }
     }
   },
-  "generated_at": "2026-05-21T17:28:04.571326+00:00",
+  "generated_at": "2026-05-22T17:03:55.215465+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
