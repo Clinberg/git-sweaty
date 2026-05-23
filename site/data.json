@@ -31359,7 +31359,7 @@
     {
       "date": "2026-05-17",
       "hour": 14,
-      "name": "Afternoon Stand Up Paddling",
+      "name": "Afternoon SUP",
       "subtype": "StandUpPaddling",
       "type": "StandUpPaddling",
       "url": "https://www.strava.com/activities/18542939916",
@@ -31426,6 +31426,24 @@
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18607719649",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 20,
+      "name": "Run8: two big laps z1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18611817980",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 8,
+      "name": "Run9: wu + 11x 200mR",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18616748816",
       "year": 2026
     }
   ],
@@ -57728,12 +57746,22 @@
         },
         "2026-05-22": {
           "activity_ids": [
-            "18607719649"
+            "18607719649",
+            "18611817980"
+          ],
+          "count": 2,
+          "distance": 7125.9,
+          "elevation_gain": 11.0,
+          "moving_time": 2931.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18616748816"
           ],
           "count": 1,
-          "distance": 3562.6,
-          "elevation_gain": 7.0,
-          "moving_time": 1474.0
+          "distance": 3580.6,
+          "elevation_gain": 6.0,
+          "moving_time": 1176.0
         }
       },
       "StandUpPaddling": {
@@ -57801,7 +57829,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:03:55.215465+00:00",
+  "generated_at": "2026-05-23T15:58:43.086043+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
