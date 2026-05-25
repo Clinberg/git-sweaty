@@ -45433,5 +45433,31 @@
     "start_date_local": "2026-05-24T10:36:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 246.4,
+    "elevation_gain": 0.0,
+    "id": "18648516192",
+    "moving_time": 664.0,
+    "name": "OW Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-25T16:10:31Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 690.2,
+    "elevation_gain": 0.0,
+    "id": "18648781913",
+    "moving_time": 911.0,
+    "name": "Afternoon SUP",
+    "raw_activity_type": "StandUpPaddling",
+    "raw_type": "StandUpPaddling",
+    "start_date_local": "2026-05-25T16:27:18Z",
+    "type": "StandUpPaddling",
+    "year": 2026
   }
 ]

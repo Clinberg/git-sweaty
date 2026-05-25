@@ -31454,6 +31454,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18631705779",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 16,
+      "name": "OW Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18648516192",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 16,
+      "name": "Afternoon SUP",
+      "subtype": "StandUpPaddling",
+      "type": "StandUpPaddling",
+      "url": "https://www.strava.com/activities/18648781913",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57791,6 +57809,26 @@
           "distance": 818.6,
           "elevation_gain": 2.1,
           "moving_time": 1287.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18648781913"
+          ],
+          "count": 1,
+          "distance": 690.2,
+          "elevation_gain": 0.0,
+          "moving_time": 911.0
+        }
+      },
+      "Swim": {
+        "2026-05-25": {
+          "activity_ids": [
+            "18648516192"
+          ],
+          "count": 1,
+          "distance": 246.4,
+          "elevation_gain": 0.0,
+          "moving_time": 664.0
         }
       },
       "Walk": {
@@ -57847,7 +57885,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T15:57:46.451716+00:00",
+  "generated_at": "2026-05-25T17:03:12.598373+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
