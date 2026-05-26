@@ -45459,5 +45459,18 @@
     "start_date_local": "2026-05-25T16:27:18Z",
     "type": "StandUpPaddling",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 4950.0,
+    "elevation_gain": 0.0,
+    "id": "18658675633",
+    "moving_time": 2093.0,
+    "name": "Run1: wu + 3x 8'gz3/P2'",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T11:14:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
