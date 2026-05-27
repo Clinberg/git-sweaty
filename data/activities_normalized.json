@@ -45472,5 +45472,44 @@
     "start_date_local": "2026-05-26T11:14:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 7718.0,
+    "elevation_gain": 11.0,
+    "id": "18665665558",
+    "moving_time": 2895.0,
+    "name": "Run2: wu + 8x 3'gz3/P1' + cd",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T20:29:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 4047.1,
+    "elevation_gain": 6.0,
+    "id": "18671152713",
+    "moving_time": 1802.0,
+    "name": "Run3: easy 4km (30m)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T08:16:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 4051.6,
+    "elevation_gain": 11.0,
+    "id": "18674768029",
+    "moving_time": 1681.0,
+    "name": "Run4: easy 4 km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T14:21:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

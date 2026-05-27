@@ -31481,6 +31481,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18658675633",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 20,
+      "name": "Run2: wu + 8x 3'gz3/P1' + cd",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18665665558",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 8,
+      "name": "Run3: easy 4km (30m)",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18671152713",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 14,
+      "name": "Run4: easy 4 km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18674768029",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57810,12 +57837,23 @@
         },
         "2026-05-26": {
           "activity_ids": [
-            "18658675633"
+            "18658675633",
+            "18665665558"
           ],
-          "count": 1,
-          "distance": 4950.0,
-          "elevation_gain": 0.0,
-          "moving_time": 2093.0
+          "count": 2,
+          "distance": 12668.0,
+          "elevation_gain": 11.0,
+          "moving_time": 4988.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18671152713",
+            "18674768029"
+          ],
+          "count": 2,
+          "distance": 8098.7,
+          "elevation_gain": 17.0,
+          "moving_time": 3483.0
         }
       },
       "StandUpPaddling": {
@@ -57903,7 +57941,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:53:51.442342+00:00",
+  "generated_at": "2026-05-27T17:54:37.301656+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
