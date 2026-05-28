@@ -31508,6 +31508,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18674768029",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 11,
+      "name": "Run5: wu + 4x 6'gz3/P90\"",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18686771763",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57854,6 +57863,15 @@
           "distance": 8098.7,
           "elevation_gain": 17.0,
           "moving_time": 3483.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18686771763"
+          ],
+          "count": 1,
+          "distance": 4645.4,
+          "elevation_gain": 0.0,
+          "moving_time": 2182.0
         }
       },
       "StandUpPaddling": {
@@ -57941,7 +57959,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T17:54:37.301656+00:00",
+  "generated_at": "2026-05-28T17:59:50.095954+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
