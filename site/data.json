@@ -31562,6 +31562,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18731820138",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 8,
+      "name": "Morning Run | Winterberg",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18751738351",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 10,
+      "name": "1k Pool Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18752797999",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57937,6 +57955,15 @@
           "distance": 5206.6,
           "elevation_gain": 14.0,
           "moving_time": 1848.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18751738351"
+          ],
+          "count": 1,
+          "distance": 7995.6,
+          "elevation_gain": 130.0,
+          "moving_time": 2947.0
         }
       },
       "StandUpPaddling": {
@@ -57977,6 +58004,15 @@
           "distance": 522.0,
           "elevation_gain": 0.0,
           "moving_time": 661.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18752797999"
+          ],
+          "count": 1,
+          "distance": 1044.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1411.0
         }
       },
       "Walk": {
@@ -58033,7 +58069,7 @@
       }
     }
   },
-  "generated_at": "2026-06-01T19:53:52.472389+00:00",
+  "generated_at": "2026-06-02T18:35:32.721547+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
