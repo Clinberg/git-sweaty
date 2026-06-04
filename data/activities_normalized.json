@@ -45628,5 +45628,31 @@
     "start_date_local": "2026-06-03T10:36:34Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 8461.1,
+    "elevation_gain": 167.0,
+    "id": "18779733005",
+    "moving_time": 3089.0,
+    "name": "Morning Run | Winterberg",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T07:47:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 1008.0,
+    "elevation_gain": 0.0,
+    "id": "18780700341",
+    "moving_time": 1337.0,
+    "name": "1 km recovery swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-04T10:36:46Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
