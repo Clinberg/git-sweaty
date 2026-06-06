@@ -45654,5 +45654,18 @@
     "start_date_local": "2026-06-04T10:36:46Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 3610.0,
+    "elevation_gain": 12.0,
+    "id": "18806067791",
+    "moving_time": 1286.0,
+    "name": "1E + 8x 200mR",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T10:03:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
