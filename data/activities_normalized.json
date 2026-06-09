@@ -45667,5 +45667,18 @@
     "start_date_local": "2026-06-06T10:03:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 7450.6,
+    "elevation_gain": 0.0,
+    "id": "18848371590",
+    "moving_time": 3124.0,
+    "name": "Run1: easy 5' + 4x 10'gz3/P2' | treadmill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T11:44:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
