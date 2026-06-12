@@ -45732,5 +45732,44 @@
     "start_date_local": "2026-06-11T10:18:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 7429.2,
+    "elevation_gain": 16.0,
+    "id": "18882399111",
+    "moving_time": 2316.0,
+    "name": "Run6: wu 6'z1 + 25x 75\"gz3/P30\"",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-11T20:36:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 4137.8,
+    "elevation_gain": 3.0,
+    "id": "18886709816",
+    "moving_time": 1732.0,
+    "name": "Run7: easy 4 km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-12T07:29:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 4000.0,
+    "elevation_gain": 0.0,
+    "id": "18890426183",
+    "moving_time": 1811.0,
+    "name": "Run8: easy 4 km | treadmill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-12T14:35:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
