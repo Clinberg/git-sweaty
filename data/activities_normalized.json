@@ -45771,5 +45771,18 @@
     "start_date_local": "2026-06-12T14:35:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 3979.6,
+    "elevation_gain": 10.0,
+    "id": "18898718288",
+    "moving_time": 1390.0,
+    "name": "Run9: wu 10'z1 + 10x 200mR",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T08:09:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
