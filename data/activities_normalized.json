@@ -45784,5 +45784,18 @@
     "start_date_local": "2026-06-13T08:09:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 10277.0,
+    "elevation_gain": 40.0,
+    "id": "18913605024",
+    "moving_time": 3951.0,
+    "name": "Run10: LR 10km high z2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T10:05:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
