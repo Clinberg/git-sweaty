@@ -45797,5 +45797,44 @@
     "start_date_local": "2026-06-14T10:05:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 6512.0,
+    "elevation_gain": 18.0,
+    "id": "18938842584",
+    "moving_time": 2111.0,
+    "name": "Run1: easy 5' + 3x 10'gz3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T07:25:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 6750.0,
+    "elevation_gain": 0.0,
+    "id": "18942990572",
+    "moving_time": 2711.0,
+    "name": "Run2: easy 5' + 10x 3'gz3/P1' | treadmill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T14:11:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 10121.9,
+    "elevation_gain": 38.0,
+    "id": "18947808704",
+    "moving_time": 7831.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-16T18:19:33Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

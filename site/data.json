@@ -31706,6 +31706,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18913605024",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 7,
+      "name": "Run1: easy 5' + 3x 10'gz3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18938842584",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 14,
+      "name": "Run2: easy 5' + 10x 3'gz3/P1' | treadmill",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18942990572",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18947808704",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -58166,6 +58193,16 @@
           "distance": 10277.0,
           "elevation_gain": 40.0,
           "moving_time": 3951.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18938842584",
+            "18942990572"
+          ],
+          "count": 2,
+          "distance": 13262.0,
+          "elevation_gain": 18.0,
+          "moving_time": 4822.0
         }
       },
       "StandUpPaddling": {
@@ -58253,6 +58290,15 @@
           "distance": 2933.3,
           "elevation_gain": 40.0,
           "moving_time": 3339.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18947808704"
+          ],
+          "count": 1,
+          "distance": 10121.9,
+          "elevation_gain": 38.0,
+          "moving_time": 7831.0
         }
       },
       "Workout": {
@@ -58289,7 +58335,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T16:17:51.355971+00:00",
+  "generated_at": "2026-06-16T18:53:04.442725+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
