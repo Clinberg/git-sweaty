@@ -31728,10 +31728,19 @@
     {
       "date": "2026-06-16",
       "hour": 18,
-      "name": "Evening Walk",
+      "name": "A4D with Stefan - day1",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/18947808704",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 12,
+      "name": "Run3: instead of double, 5km z1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18955758385",
       "year": 2026
     }
   ],
@@ -58203,6 +58212,15 @@
           "distance": 13262.0,
           "elevation_gain": 18.0,
           "moving_time": 4822.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18955758385"
+          ],
+          "count": 1,
+          "distance": 5067.4,
+          "elevation_gain": 9.0,
+          "moving_time": 2160.0
         }
       },
       "StandUpPaddling": {
@@ -58335,7 +58353,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T18:53:04.442725+00:00",
+  "generated_at": "2026-06-17T17:47:17.563134+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
