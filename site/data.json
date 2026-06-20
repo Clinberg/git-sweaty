@@ -31769,6 +31769,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18980434350",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 8,
+      "name": "Run5: longer wu + 12x 200mR",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18992304369",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -58257,6 +58266,15 @@
           "distance": 8210.9,
           "elevation_gain": 15.0,
           "moving_time": 2749.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18992304369"
+          ],
+          "count": 1,
+          "distance": 4450.3,
+          "elevation_gain": 6.0,
+          "moving_time": 1463.0
         }
       },
       "StandUpPaddling": {
@@ -58407,7 +58425,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T17:13:28.774290+00:00",
+  "generated_at": "2026-06-20T16:13:24.433223+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
