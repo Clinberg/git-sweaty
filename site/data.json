@@ -31778,6 +31778,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18992304369",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 7,
+      "name": "Run6: 12km L",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19005746463",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -58275,6 +58284,15 @@
           "distance": 4450.3,
           "elevation_gain": 6.0,
           "moving_time": 1463.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19005746463"
+          ],
+          "count": 1,
+          "distance": 12057.9,
+          "elevation_gain": 13.0,
+          "moving_time": 4571.0
         }
       },
       "StandUpPaddling": {
@@ -58425,7 +58443,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T16:13:24.433223+00:00",
+  "generated_at": "2026-06-21T16:26:56.856588+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/8326298",
   "repo": "Clinberg/git-sweaty",
