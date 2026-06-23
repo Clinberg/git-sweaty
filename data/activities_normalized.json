@@ -45914,5 +45914,31 @@
     "start_date_local": "2026-06-21T07:59:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 7584.3,
+    "elevation_gain": 27.0,
+    "id": "19031364305",
+    "moving_time": 2514.0,
+    "name": "Run1: wu 10'z1 + 3x 10'gz3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T07:21:10Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 6755.8,
+    "elevation_gain": 0.0,
+    "id": "19036068265",
+    "moving_time": 2709.0,
+    "name": "Run2: wu 5'z1 + 10x 3'gz3/P1' | treadmill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T15:07:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
