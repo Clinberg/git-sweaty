@@ -46018,5 +46018,31 @@
     "start_date_local": "2026-06-27T08:19:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 2901.6,
+    "elevation_gain": 3.0,
+    "id": "19098444860",
+    "moving_time": 794.0,
+    "name": "Run7.2: 13x 200mR",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T14:32:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 5023.7,
+    "elevation_gain": 6.0,
+    "id": "19098444870",
+    "moving_time": 2137.0,
+    "name": "Run7.1: easy 35'",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T13:51:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
