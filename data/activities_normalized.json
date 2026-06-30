@@ -46044,5 +46044,18 @@
     "start_date_local": "2026-06-28T13:51:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 8766.4,
+    "elevation_gain": 22.0,
+    "id": "19121901516",
+    "moving_time": 2852.0,
+    "name": "Run1: wu + 4x 10'gz3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T11:54:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
